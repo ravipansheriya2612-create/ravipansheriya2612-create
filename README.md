@@ -107,56 +107,10 @@ const ravi = {
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏟️ ArenaHub
-
-A production-ready MERN Stack Sports Ground Booking Platform featuring:
-
-* JWT Authentication
-* Role Based Admin Dashboard
-* Razorpay Payment Integration
-* Cloudinary Image Upload
-* AI Powered Review Enhancement
-* Reviews & Ratings
-* Responsive UI
-* Booking Management
-
----
-
-## 🏥 QueueEase
-
-A Real-Time MERN Queue Management System featuring:
-
-* JWT Authentication
-* Live Queue Tracking
-* Socket.IO Real-Time Updates
-* MongoDB Atlas
-* Admin Dashboard
-* Responsive UI
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravipansheriya2612-create&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ravipansheriya2612-create&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipansheriya2612-create&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 * 📧 Email: **[ravipansheriya2612@gmail.com](mailto:ravipansheriya2612@gmail.com)**
-* 💼 LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME**
+* 💼 LinkedIn: **https://www.linkedin.com/in/ravi-pansheriya-881b22280**
 * 💻 GitHub: **https://github.com/ravipansheriya2612-create**
 
 ---
