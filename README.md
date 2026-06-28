@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravi Pansheriya</h1>
-<h3 align="center">Full Stack MERN Developer | React • Node.js • MongoDB</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+AI+Powered+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Open+to+Internships+%26+Opportunities" />
-</p>
+<h3 align="center">MERN Stack Developer | React • Node.js • MongoDB</h3>
 
 <p align="center">
   <a href="mailto:ravipansheriya2612@gmail.com">Email</a> •
   <a href="https://github.com/ravipansheriya2612-create">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ravi-pansheriya-881b22280">LinkedIn</a>
 </p>
 
 ---
